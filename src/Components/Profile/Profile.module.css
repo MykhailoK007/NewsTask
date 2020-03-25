@@ -1,0 +1,13 @@
+.avatar{
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    overflow: hidden;
+
+}
+.lefSide{
+    text-align: center;
+}
+.container{
+    margin-top: 50px;
+}
